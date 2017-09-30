@@ -1,0 +1,18 @@
+[user]
+  name = Chris Lin, Chun Hung
+  email = chris4540@gmail.com
+[color]
+  ui = auto
+[core]
+  editor = vim
+  filemode = false
+[alias]
+  co = checkout
+  br = branch
+  st = status
+  mrg = merge
+  gpush = push origin HEAD:refs/for/master
+[status]
+  showUntrackedFiles = no
+[push]
+  default = simple
